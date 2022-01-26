@@ -13,7 +13,7 @@ def x2():
   
 def x3_1():
  return collatz(n*3+1)
-# катя 
+# катяя
   
   
 def collatz(n):
