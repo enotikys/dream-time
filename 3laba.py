@@ -13,7 +13,7 @@ def input():
   
 def x3_1():
   # Катя
-  
+  ряр
   
 def collatz(n):
   #Некит
