@@ -12,7 +12,7 @@ def input_f():
   
   
 def x3_1():
- return collatz(n*3+1)
+ return collatz(n*3+1)2
 
   
   
