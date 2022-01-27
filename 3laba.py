@@ -1,4 +1,4 @@
-def input():
+def input_f():
  #Макс
 
  
