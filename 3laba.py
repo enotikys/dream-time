@@ -8,7 +8,7 @@ def input_f():
   
   
  def x2():
-  # Леха
+     return collatz(n // 2)
   
   
 def x3_1():
