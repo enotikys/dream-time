@@ -8,7 +8,7 @@ def input_f():
   
   
  def x2():
-     return collatz(n // 2)
+  # Леха
   
   
 def x3_1():
@@ -16,4 +16,11 @@ def x3_1():
   
   
 def collatz(n):
-  #Некит
+  result = [n]
+  if n == 1
+  pass 
+ elif n % 2 == 0
+ result.extend(x2(2))
+ else:
+  result.extend(x3_1(n))
+  return result
