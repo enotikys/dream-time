@@ -12,7 +12,8 @@ def input_f():
   
   
 def x3_1():
-  # Катя
+ return collatz(n*3+1)
+
   
   
 def collatz(n):
